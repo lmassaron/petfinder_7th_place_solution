@@ -1,6 +1,6 @@
 # petfinder
 
-Kaggle PetFinder Competition: ~~Deep Learning~~ Machine Learning For Puppies
+Kaggle PetFinder Competition: ~~Deep Learning~~ Machine Learning For Puppies (7th place solution)
 
 Abstract:
 
