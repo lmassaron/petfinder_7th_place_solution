@@ -8,7 +8,7 @@ The goal of the competition was to predict the adoptability of pets based on a d
 
 ## Our Solution
 
-Our success in this competition was primarily due to extensive feature engineering and a robust validation strategy.
+Our success in this competition was primarily due to extensive feature engineering and a robust validation strategy (read [writeup](https://www.kaggle.com/competitions/petfinder-adoption-prediction/writeups/we-need-a-fulltime-job-7th-place-solution-summary)). 
 
 ### Feature Engineering
 
